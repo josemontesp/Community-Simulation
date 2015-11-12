@@ -1,0 +1,5 @@
+C:\Users\Administrador\documents\visual studio 2013\Projects\T5 Jose Montes\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Administrador\documents\visual studio 2013\Projects\T5 Jose Montes\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Administrador\documents\visual studio 2013\Projects\T5 Jose Montes\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Administrador\documents\visual studio 2013\Projects\T5 Jose Montes\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Administrador\documents\visual studio 2013\Projects\T5 Jose Montes\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache

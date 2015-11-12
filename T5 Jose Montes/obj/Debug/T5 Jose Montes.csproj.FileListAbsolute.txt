@@ -1,0 +1,19 @@
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\bin\Debug\T5 Jose Montes.exe.config
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\bin\Debug\T5 Jose Montes.exe
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\bin\Debug\T5 Jose Montes.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\T5 Jose Montes.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\MainWindow.baml
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\MainWindow.g.cs
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\App.g.cs
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\T5 Jose Montes_MarkupCompile.cache
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\T5 Jose Montes.g.resources
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\T5_Jose_Montes.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\T5 Jose Montes.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\T5 Jose Montes.exe
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\T5 Jose Montes.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\Criatura.baml
+c:\users\administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\Criatura.g.cs
+C:\Users\Administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\bin\Debug\BackEnd.dll
+C:\Users\Administrador\documents\visual studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\bin\Debug\BackEnd.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\Inicio.baml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\T5 Jose Montes\T5 Jose Montes\obj\Debug\Inicio.g.cs
